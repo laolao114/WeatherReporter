@@ -1,0 +1,18 @@
+PODS:
+  - JSONModel (1.2.0)
+  - Masonry (1.0.1)
+  - MJRefresh (3.1.1)
+
+DEPENDENCIES:
+  - JSONModel
+  - Masonry (~> 1.0.1)
+  - MJRefresh
+
+SPEC CHECKSUMS:
+  JSONModel: 12523685c4b623553ccf844bbbf7007624317b2c
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
+  MJRefresh: 70a47c5543b567cdaf70ead5a6e99ce820652eb9
+
+PODFILE CHECKSUM: 5d520925834fe2ab91719bf283aae82c96123b4f
+
+COCOAPODS: 1.0.1

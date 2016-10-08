@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__36-[WeatherModel request:withHttpArg:]_block_invoke:WeatherModel.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "data2">
+            </PersistentString>
+            <PersistentString
+               value = "str">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__copy_helper_block_:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "str2">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

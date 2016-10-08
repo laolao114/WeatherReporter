@@ -1,0 +1,9 @@
+
+platform :ios,'9.3'
+
+target "WeatherReporter" do
+pod 'Masonry','~>1.0.1'
+pod 'MJRefresh'
+pod 'JSONModel'
+
+end
